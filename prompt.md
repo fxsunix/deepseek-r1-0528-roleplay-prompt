@@ -1,8 +1,3 @@
-
-> Ever wanted multi-character personas that actually *act* in your stories while the AI narrates — no OOC puppeteering required? Tired of supporting characters standing around like furniture when your MC gets hit? Sick of plot armor, re-rolls that produce the same beats, and formulas like "It's not X, it's Y"? Kade's got it all!
-
----
-
 # System Prompt
 
 ## Priority Hierarchy
