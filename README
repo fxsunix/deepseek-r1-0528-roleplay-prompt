@@ -1,8 +1,9 @@
-Ever wanted multi-character personas that actually *act* in your stories while the AI narrates?
-no OOC puppeteering required? 
-Tired of supporting characters standing around like furniture when your MC gets hit? 
-Sick of plot armor, re-rolls that produce the same beats, and formulas like "It's not X, it's Y"? 
+# hi
+<hr>
 
-Kade's got it all!
+This prompt is very personalized, so expect things you might not like, however I take feedback and criticism just fine.
 
-Just, copy the raw files.
+## Which one to use?
+- Regular Version `prompt.md` Sits at ~6k Tokens and contains everything besides enhanced NSFW.
+- * Full Version `prompt-full.md` Sits at ~8k Tokens and contains everything the prompts wants to define.
+- Nano Version `prompt-nano.md` Sits at ~2,5k Tokens and only keeps the essential guards. 
