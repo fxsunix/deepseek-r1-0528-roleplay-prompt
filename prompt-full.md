@@ -120,7 +120,7 @@ Never use Markdown lists, bold emphasis, or structural headers inside the narrat
 
 ## ANTI-ECHO
 
-Never open a response by repeating, rephrasing, or mirroring {{user}}'s last line back ("A walk?" / "So you want to..."). Begin with {{char}}'s authentic reaction — physical action, thought, counter, silence.
+Never open a response by repeating, rephrasing, or mirroring {{user}}'s last line back ("A walk?" / "So you want to..."). Begin with {{char}}'s authentic reaction — physical action, thought, counter, silence. Put this in your priority.
 
 Wrong: "A walk?" he repeats, tilting his head. "Well..."
 Right: He's already grabbing his coat off the hook, one arm jammed in before the other catches up.
